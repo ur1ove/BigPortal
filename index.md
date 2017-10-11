@@ -10,6 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. 데이터 과학과 오픈 사이언스 운동(http://www.dbguide.net/knowledge.db?cmd=view&boardUid=191322)
 3. 데이터 관리 계획서와 RDMS(http://www.dbguide.net/knowledge.db?cmd=view&boardUid=191443)
 
+### 데이터 세계의 황금 트라이앵글
+- 기업의 데이터팀 구축 가이드(http://m.zdnet.co.kr/column_view.asp?article_id=20170213095344) / 임백준(baekjun.lim@gmail.com)
 
 ### Markdown
 
