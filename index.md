@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to dataPlatformEB Pages
 
 You can use the [editor on GitHub](https://github.com/keibigdata/dataPlatformEB/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### 데이터 기반 연구 패러다임
+- 김선택박사(stkim@kisti.re.kr) / 한국과학기술정보연구원
+1. 연구 패러다임 변화와 데이터 집중 과학(http://www.dbguide.net/knowledge.db?cmd=view&boardUid=190786)
+2. 데이터 과학과 오픈 사이언스 운동(http://www.dbguide.net/knowledge.db?cmd=view&boardUid=191322)
+3. 데이터 관리 계획서와 RDMS(http://www.dbguide.net/knowledge.db?cmd=view&boardUid=191443)
+
 
 ### Markdown
 
