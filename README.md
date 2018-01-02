@@ -20,5 +20,12 @@ Environment Big-data Platform model for DMP and RDMS
 3) 아두이노, 라즈베리파이 등 IoT 기기와 MS Azure 등 클라우드을 활용한 자체 데이터 수집방법 보유
   => 최소 3년 이상의 고유 데이터 축적
   
-## 오픈소스를 활용한 대기질 데이터 수집 자동화(논문화)
+### 3. 오픈소스를 활용한 대기질(환경질) 데이터 수집 자동화(논문화)
 1) 수정-저장 자동화(Elastic Stack, PostgreSQL)
+2) 대시보드 자동화(Elastic Stack, Splunk, PostgreSQL)
+3) 수집-저장플랫폼 설계(-구축)방법론
+
+### 4. 데이터 수집(계속)
+1) 카테고링
+2) 데이터 소스 목록화
+3) 고유 데이터 수집-저장
