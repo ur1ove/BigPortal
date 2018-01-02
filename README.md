@@ -5,6 +5,8 @@ Environment Big-data Platform model for DMP and RDMS
 1) 비지니스 분석(BA) + 요구사항 정의를 바탕으로
 2) 규칙 -> 절차화 -> 프레임워크화 -> 플랫폼화
 
+1) 연구자는 PC, 노트북, 휴대폰 등을 통해 사용한다. 예) Jupyter Notebook, R Studio Server
+
 ## 데이터 수집-저장방법
 
 ### 1. 데이터 수집과정의 자동화
