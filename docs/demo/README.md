@@ -9,15 +9,15 @@
 3) numpy, pandas, tensorflow-gpu, konlpy 등 기본 라이브러리가 설치되어 있으며 설치 요청은 슬랙 또는 메일(dataq@kei.re.kr)로 주시기 바랍니다.
 4) 슬랙에 공지된 ID와 비밀번호를 사용하여 로그인합니다.
 
-![로그인](01_jupyter_login.jpg)
+![로그인](imgs/01_jupyter_login.jpg)
 
 5) /home/[로그인 ID] 의 디렉터리(폴더)와 파일이 표시됩니다.
 
-![로그인 계정 홈 디렉터리](02_jupyter_home.jpg)
+![로그인 계정 홈 디렉터리](imgs/02_jupyter_home.jpg)
 
 6) 클릭으로 이동합니다. 파일 클릭시 채 창이 열리고 왼쪽 New 클릭하면 파일, 폴더, 서버 터미널을 열 수 있습니다.
 
-![New 클릭](03_jupyter_new.jpg)
+![New 클릭](imgs/03_jupyter_new.jpg)
 
 7) 
 
