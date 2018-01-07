@@ -4,8 +4,8 @@
 3) 아나콘다(Anaconda 4.4.4)를 이용하여 구성하였습니다.
 
 ### 주피터 노트북(Jupyter Notebook) 접속방법
-1) 주피터 노트북은 주피터 프로젝트(http://jupyter.org/)를 기반으로 배포되는 오픈소스 대화형 프로그래밍 웹 컴퓨팅 서비스입니다.
-2) 웹브라우저를 통해 URL(http://data.kei.re.kr:8000/)로 접속합니다.
+1) 주피터 노트북은 주피터 프로젝트(http://jupyter.org/) 를 기반으로 배포되는 오픈소스 대화형 프로그래밍 웹 컴퓨팅 서비스입니다.
+2) 웹브라우저를 통해 URL(http://data.kei.re.kr:8000/) 로 접속합니다.
 3) numpy, pandas, tensorflow-gpu, konlpy 등 기본 라이브러리가 설치되어 있으며 설치 요청은 슬랙 또는 메일(dataq@kei.re.kr)로 주시기 바랍니다.
 4) 슬랙에 공지된 ID와 비밀번호를 사용하여 로그인합니다.
 
