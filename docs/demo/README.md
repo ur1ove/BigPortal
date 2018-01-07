@@ -6,7 +6,7 @@
 ### 주피터 노트북(Jupyter Notebook) 접속방법
 1) URL : http://data.kei.re.kr:8000/
 2) Libs : numpy, pandas, tensorflow-gpu, konlpy......
-3) 슬랙에 공지된 ID와 비밀번호를 사용합니다.
+3) 슬랙에 공지된 ID와 비밀번호를 사용하여 로그인합니다.
 
 ![로그인](01_jupyter_login.jpg)
 
