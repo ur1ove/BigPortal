@@ -8,3 +8,4 @@
 2) Libs : numpy, pandas, tensorflow-gpu, konlpy......
 
 3) 슬랙에 공지된 ID와 비밀번호를 사용합니다.
+![로그인](01_jupyter_login.jpg)
