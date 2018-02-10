@@ -6,6 +6,7 @@ http://www.rdesktop.org
   
 https://github.com/rdesktop/rdesktop  
   
+1. rdesktop 소스를 clone합니다.
 ~~~
 Server:~/Desktop # git clone https://github.com/rdesktop/rdesktop
 'rdesktop'에 복제합니다...
