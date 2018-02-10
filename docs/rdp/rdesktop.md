@@ -1,10 +1,11 @@
 ### 리눅스에서 윈도우 원격 데스크톱(RDP) 접속하기  
-
-rdesktop
-Unix client for Microsoft Remote Desktop Services
-http://www.rdesktop.org
-
-https://github.com/rdesktop/rdesktop
+  
+![rdesktop](https://avatars2.githubusercontent.com/u/13203812?s=200&v=4)  
+Unix client for Microsoft Remote Desktop Services  
+http://www.rdesktop.org  
+  
+https://github.com/rdesktop/rdesktop  
+  
 ~~~
 Server:~/Desktop # git clone https://github.com/rdesktop/rdesktop
 'rdesktop'에 복제합니다...
