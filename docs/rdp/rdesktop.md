@@ -234,3 +234,15 @@ checking for setmntent... yes
 configure: creating ./config.status
 config.status: creating Makefile
 ~~~
+
+~~~
+Server:~/Desktop/rdesktop # make
+gcc -g -O2 -Wall -Wextra -I/usr/include       -DPACKAGE_NAME=\"rdesktop\" -DPACKAGE_TARNAME=\"rdesktop\" -DPACKAGE_VERSION=\"1.8.3post\" -DPACKAGE_STRING=\"rdesktop\ 1.8.3post\" -DPACKAGE_BUGREPORT=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DL_ENDIAN=1 -DHAVE_SYS_SELECT_H=1 -DHAVE_LOCALE_H=1 -DHAVE_LANGINFO_H=1 -DHAVE_SYSEXITS_H=1 -Dssldir=\"/usr\" -DHAVE_XRANDR=1 -DHAVE_XCURSOR=1 -DEGD_SOCKET=\"/var/run/egd-pool\" -DWITH_RDPSND=1 -DRDPSND_OSS=1 -DHAVE_DIRENT_H=1 -DHAVE_DIRFD=1 -DHAVE_DECL_DIRFD=1 -DHAVE_ICONV_H=1 -DHAVE_ICONV=1 -DICONV_CONST= -DHAVE_SYS_VFS_H=1 -DHAVE_SYS_STATVFS_H=1 -DHAVE_SYS_STATFS_H=1 -DHAVE_SYS_PARAM_H=1 -DHAVE_SYS_MOUNT_H=1 -DSTAT_STATVFS=1 -DHAVE_STRUCT_STATVFS_F_NAMEMAX=1 -DHAVE_STRUCT_STATFS_F_NAMELEN=1 -DHAVE_MNTENT_H=1 -DHAVE_SETMNTENT=1 -DKEYMAP_PATH=\"/usr/local/share/rdesktop/keymaps/\" -o rdesktop rdesktop.o xwin.o xkeymap.o ewmhints.o xclip.o cliprdr.o ctrl.o rdpsnd.o rdpsnd_dsp.o rdpsnd_oss.o tcp.o asn.o iso.o mcs.o secure.o licence.o rdp.o orders.o bitmap.o cache.o rdp5.o channels.o rdpdr.o serial.o printer.o disk.o parallel.o printercache.o mppc.o pstcache.o lspci.o seamless.o ssl.o utils.o stream.o dvc.o rdpedisp.o   -L/usr/lib -L/usr/lib64 -lssl -lcrypto -ldl  -lXrandr   -lXcursor       -lX11
+/usr/lib64/gcc/x86_64-suse-linux/4.3/../../../../x86_64-suse-linux/bin/ld: skipping incompatible /usr/lib/libdl.so when searching for -ldl
+/usr/lib64/gcc/x86_64-suse-linux/4.3/../../../../x86_64-suse-linux/bin/ld: skipping incompatible /usr/lib/libc.so when searching for -lc
+ssl.o: In function `rdssl_cert_to_rkey':
+/root/Desktop/rdesktop/ssl.c:189: undefined reference to `X509_PUBKEY_get0_param'
+/root/Desktop/rdesktop/ssl.c:206: undefined reference to `X509_PUBKEY_set0_param'
+collect2: ld returned 1 exit status
+make: *** [rdesktop] 오류 1
+~~~
