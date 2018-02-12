@@ -57,3 +57,9 @@ checking for X... no
 ERROR: Could not find X Window System headers/libraries.
 To specify paths manually, use the options --x-includes and --x-libraries
 ~~~
+3.1. xorg-x11-devel이 설치되지 않아 발생하는 오류이다.  
+  버전에 맞게 리파지터리를 추가하고 설치한다.
+~~~
+http://romolo.cmb.usc.edu/installs/SLES-11-SP3-SDK/CD1/
+http://romolo.cmb.usc.edu/installs/SLES-11-SP3-SDK/CD2/
+~~~
