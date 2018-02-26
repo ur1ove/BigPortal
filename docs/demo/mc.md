@@ -1,5 +1,7 @@
-### 서버터미널 
+### 서버 터미널에서 파일관리자 사용해보자.
   
+  1. 리눅스에는 mc가 있습니다.  
+  2. 설치방법은 아래를 참고하세요.
   ~~~
   Admin@Server:~$ sudo apt install mc
 [sudo] password for Admin: 
