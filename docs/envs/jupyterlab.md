@@ -1,3 +1,13 @@
+### JupyterLab을 써볼까요???  
+참고 : https://github.com/jupyterlab/jupyterlab  
+아나콘다(Anaconda)가 설치되어야 합니다.  
+아나콘다 환경(Anaconda Prompt)를 실행하고 주피터 노트북(Jupyter Notebook) 버전을 확인합니다.  
+(4.3 이후 버전이어야 합니다.)
+~~~
+(E:\Program\Anaconda3) C:\Users\~>jupyter notebook --version
+5.0.0
+~~~
+
 ~~~
 (E:\Program\Anaconda3) C:\Users\~>conda clean --index-cache
 
