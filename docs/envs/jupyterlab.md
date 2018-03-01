@@ -25,3 +25,17 @@ The following packages will be SUPERSEDED by a higher-priority channel:
 
 Proceed ([y]/n)?
 ~~~
+y를 입력하면 설치가 진행됩니다.  
+~~~
+Proceed ([y]/n)? y
+
+ca-certificate 100% |###############################| Time: 0:00:02  71.65 kB/s
+conda-env-2.6. 100% |###############################| Time: 0:00:00 517.28 kB/s
+openssl-1.0.2n 100% |###############################| Time: 0:00:05 956.10 kB/s
+vc-14-0.tar.bz 100% |###############################| Time: 0:00:00 491.66 kB/s
+conda-4.3.34-p 100% |###############################| Time: 0:00:01 545.57 kB/s
+jupyterlab_lau 100% |###############################| Time: 0:00:00   5.74 MB/s
+jupyterlab-0.3 100% |###############################| Time: 0:00:11   1.06 MB/s
+
+(E:\Program\Anaconda3) C:\Users\~>
+~~~
