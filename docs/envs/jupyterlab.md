@@ -1,4 +1,4 @@
-### JupyterLab을 써볼까요???  
+### 주피터랩(JupyterLab)을 써볼까요???  
 참고 : https://github.com/jupyterlab/jupyterlab  
   
 아나콘다(Anaconda)가 설치되어야 합니다.  
