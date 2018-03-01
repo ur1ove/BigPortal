@@ -13,7 +13,7 @@
 (E:\Program\Anaconda3) C:\Users\~>jupyter notebook --version
 5.0.0
 ~~~
-설치는 쉬습니다.
+설치는 쉽습니다.
 ~~~
 (E:\Program\Anaconda3) C:\Users\~>conda clean --index-cache
 
@@ -72,13 +72,13 @@ Enabling: jupyterlab
 [I 10:55:44.377 LabApp] JupyterLab application directory is E:\Program\Anaconda3\share\jupyter\lab
 [I 10:55:45.295 LabApp] Serving notebooks from local directory: C:\Users\~
 [I 10:55:45.295 LabApp] 0 active kernels
-[I 10:55:45.295 LabApp] The Jupyter Notebook is running at: http://localhost:8889/?token=4fc20b51dda392cced0e577e42125c529dce5171edc07bfa
+[I 10:55:45.295 LabApp] The Jupyter Notebook is running at: http://localhost:8889/?token=blah~
 [I 10:55:45.296 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [C 10:55:45.300 LabApp]
 
     Copy/paste this URL into your browser when you connect for the first time,
     to login with a token:
-        http://localhost:8889/?token=4fc20b51dda392cced0e577e42125c529dce5171edc07bfa
+        http://localhost:8889/?token=blah~
 [I 10:55:46.039 LabApp] Accepting one-time-token-authenticated connection from ::1
 [W 10:55:46.667 LabApp] 404 GET /favicon.ico (::1) 111.14ms referer=None
 [I 10:55:48.190 LabApp] Build is up to date
