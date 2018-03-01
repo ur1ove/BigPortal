@@ -1,6 +1,7 @@
 ### 주피터랩(JupyterLab)을 써볼까요???  
 참고 : https://github.com/jupyterlab/jupyterlab  
-  
+* 본 문서는 윈도우10에 설치된 아나콘다를 기준으로 작성되었습니다.
+
 아나콘다(Anaconda)가 설치되어야 합니다.  
   
 아나콘다 환경(Anaconda Prompt)를 실행하고 주피터 노트북(Jupyter Notebook) 버전을 확인합니다.  
