@@ -1,6 +1,6 @@
 ### 주피터랩(JupyterLab)을 써볼까요???  
 참고 : https://github.com/jupyterlab/jupyterlab  
-* 본 문서는 윈도우10에 설치된 아나콘다를 기준으로 작성되었습니다.
+* 본 문서는 윈도우10에 설치된 아나콘다를 기준으로 작성되었습니다.  
 
 아나콘다(Anaconda)가 설치되어야 합니다.  
   
@@ -10,7 +10,7 @@
 (E:\Program\Anaconda3) C:\Users\~>jupyter notebook --version
 5.0.0
 ~~~
-
+설치는 쉬습니다.
 ~~~
 (E:\Program\Anaconda3) C:\Users\~>conda clean --index-cache
 
