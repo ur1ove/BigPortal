@@ -1,6 +1,6 @@
 ### 주피터랩(JupyterLab)을 써볼까요???  
 참고(설치) : https://github.com/jupyterlab/jupyterlab  
-  
+
 참고(활용) : http://jupyterlab.readthedocs.io/en/latest/  
 * 본 문서는 윈도우10에 설치된 아나콘다를 기준으로 작성되었습니다.  
 
