@@ -39,3 +39,38 @@ jupyterlab-0.3 100% |###############################| Time: 0:00:11   1.06 MB/s
 
 (E:\Program\Anaconda3) C:\Users\~>
 ~~~
+
+~~~
+(E:\Program\Anaconda3) C:\Users\~>conda list | find "ote"
+notebook                  5.0.0                    py36_0
+
+(E:\Program\Anaconda3) C:\Users\~>jupyter serverextension enable --py jupyterlab --sys-prefix
+Enabling: jupyterlab
+- Writing config: E:\Program\Anaconda3\etc\jupyter
+    - Validating...
+      jupyterlab  ok
+
+(E:\Program\Anaconda3) C:\Users\~>jupyter lab
+[I 10:55:44.345 LabApp] The port 8888 is already in use, trying another port.
+[I 10:55:44.376 LabApp] JupyterLab beta preview extension loaded from E:\Program\Anaconda3\lib\site-packages\jupyterlab
+[I 10:55:44.377 LabApp] JupyterLab application directory is E:\Program\Anaconda3\share\jupyter\lab
+[I 10:55:45.295 LabApp] Serving notebooks from local directory: C:\Users\~
+[I 10:55:45.295 LabApp] 0 active kernels
+[I 10:55:45.295 LabApp] The Jupyter Notebook is running at: http://localhost:8889/?token=4fc20b51dda392cced0e577e42125c529dce5171edc07bfa
+[I 10:55:45.296 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:55:45.300 LabApp]
+
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=4fc20b51dda392cced0e577e42125c529dce5171edc07bfa
+[I 10:55:46.039 LabApp] Accepting one-time-token-authenticated connection from ::1
+[W 10:55:46.667 LabApp] 404 GET /favicon.ico (::1) 111.14ms referer=None
+[I 10:55:48.190 LabApp] Build is up to date
+~~~
+종료하려면 "Ctrl + C"하면 됩니다.
+~~~
+[I 10:56:45.300 LabApp] Interrupted...
+[I 10:56:45.301 LabApp] Shutting down kernels
+
+(E:\Program\Anaconda3) C:\Users\~>
+~~~
