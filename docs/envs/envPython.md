@@ -1,5 +1,5 @@
 ### Python : make my workspaces  
-  
+!) Python 2.7    
 envtester@DataLX01:~$ virtualenv --python=python2.7 myPython2.7  
 ~~~
 Running virtualenv with interpreter /usr/bin/python2.7
@@ -8,11 +8,12 @@ Also creating executable in /home/envtester/myPython2.7/bin/python
 Installing setuptools, pkg_resources, pip, wheel...done.
 ~~~
 envtester@DataLX01:~$ source myPython2.7/bin/activate  
-~~~
 (myPython2.7) envtester@DataLX01:~$ python -V
-Python 2.7.12
-(myPython2.7) envtester@DataLX01:~$ deactivate
 ~~~
+Python 2.7.12
+~~~
+(myPython2.7) envtester@DataLX01:~$ deactivate  
+2) Python 3.6
 envtester@DataLX01:~$ virtualenv --python=python3.5 myPython3.5  
 ~~~
 Running virtualenv with interpreter /usr/bin/python3.5
