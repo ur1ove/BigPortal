@@ -1,4 +1,4 @@
-### Python : make my workspaces  
+### Python | How to make my workspaces as python versions
 !) Python 2.7    
 envtester@DataLX01:~$ virtualenv --python=python2.7 myPython2.7  
 ~~~
