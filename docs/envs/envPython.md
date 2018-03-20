@@ -1,5 +1,6 @@
 ### Python | How to make my workspaces as python versions
-1) Python 2.7    
+1) Python 2.7  
+  
 envtester@DataLX01:~$ virtualenv --python=python2.7 myPython2.7  
 ~~~
 Running virtualenv with interpreter /usr/bin/python2.7
@@ -15,6 +16,7 @@ Python 2.7.12
 (myPython2.7) envtester@DataLX01:~$ deactivate  
   
 2) Python 3.6  
+  
 envtester@DataLX01:~$ virtualenv --python=python3.5 myPython3.5  
 ~~~
 Running virtualenv with interpreter /usr/bin/python3.5
