@@ -30,8 +30,8 @@ envtester@DataLX01:~$ source myPython3.5/bin/activate
 ~~~
 Python 3.5.2
 ~~~
-(myPython3.5) envtester@DataLX01:~$ deactivate
-~~~
+(myPython3.5) envtester@DataLX01:~$ deactivate  
+  
   
   
 ### 이하는 수정중!!!
