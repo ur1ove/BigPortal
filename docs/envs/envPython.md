@@ -4,6 +4,17 @@ envtester@DataLX01:~$ vi ~/.bashrc
 export WORKON_HOME=~/.python_virtual_envs
 source /usr/local/bin/virtualenvwrapper.sh
 ~~~
+  
+root@DataLX01:~# su - envtester  
+~~~
+/usr/bin/python: No module named virtualenvwrapper
+virtualenvwrapper.sh: There was a problem running the initialization hooks.
+
+If Python could not import the module virtualenvwrapper.hook_loader,
+check that virtualenvwrapper has been installed for
+VIRTUALENVWRAPPER_PYTHON=/usr/bin/python and that PATH is
+set properly.
+~~~
 ### 소프트웨어 설치  
 root@DataLX01:~# pip install virtualenv  
 ~~~
