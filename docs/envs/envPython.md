@@ -1,5 +1,5 @@
 ### Python | How to make my workspaces as python versions
-1) Python 2.7  
+1) Python 2  
   
 envtester@DataLX01:~$ virtualenv --python=python2.7 myPython2.7  
 ~~~
@@ -15,7 +15,7 @@ Python 2.7.12
 ~~~
 (myPython2.7) envtester@DataLX01:~$ deactivate  
   
-2) Python 3.6  
+2) Python 3  
   
 envtester@DataLX01:~$ virtualenv --python=python3.5 myPython3.5  
 ~~~
@@ -32,6 +32,10 @@ Python 3.5.2
 ~~~
 (myPython3.5) envtester@DataLX01:~$ deactivate
 ~~~
+  
+  
+### 이하는 수정중!!!
+  
 envtester@DataLX01:~$ mkdir ~/.python_virtual_envs  
 envtester@DataLX01:~$ vi ~/.bashrc  
 ~~~
