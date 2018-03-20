@@ -1,8 +1,15 @@
-root@DataLX01:~# pip install virtualenv
+envtester@DataLX01:~$ mkdir ~/.python_virtual_envs  
+envtester@DataLX01:~$ vi ~/.bashrc  
+~~~
+export WORKON_HOME=~/.python_virtual_envs
+source /usr/local/bin/virtualenvwrapper.sh
+~~~
+### 소프트웨어 설치  
+root@DataLX01:~# pip install virtualenv  
 ~~~
 Requirement already satisfied: virtualenv in /usr/lib/python3/dist-packages
 ~~~
-root@DataLX01:~# pip install virtualenvwrapper
+root@DataLX01:~# pip install virtualenvwrapper  
 ~~~
 Collecting virtualenvwrapper
   Downloading virtualenvwrapper-4.8.2-py2.py3-none-any.whl
