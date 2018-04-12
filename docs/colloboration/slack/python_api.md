@@ -7,9 +7,10 @@
 - https://api.slack.com/custom-integrations  
 - Legacy tokens - https://api.slack.com/custom-integrations/legacy-tokens  
   
-Legacy token generator에서 토큰을 발급받습니다.  
+1. Legacy token generator에서 토큰을 발급받습니다.  
   
-메시징 예제코드
+2. 메시징 예제코드  
+  
 ~~~
 from slackclient import SlackClient
 
