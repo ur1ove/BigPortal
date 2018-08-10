@@ -1,4 +1,4 @@
-R 버전 확인
+- R 버전 확인
 ~~~
 > sessionInfo()
 R version 3.4.2 (2017-09-28)
@@ -45,3 +45,4 @@ language       R
 version.string R version 3.4.2 (2017-09-28)
 nickname       Short Summer      
 ~~~
+- [알스튜디오에서 R 업데이트](http://ririsdata.blogspot.com/2016/10/rrstudio-r.html)  
