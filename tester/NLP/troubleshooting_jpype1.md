@@ -34,3 +34,7 @@ Installing collected packages: pip
       Successfully uninstalled pip-10.0.1
 Successfully installed pip-18.0
 ~~~
+~~~
+>pip install --upgrade jpype1
+Requirement already up-to-date: jpype1 in e:\program\anaconda3\lib\site-packages (0.6.3)
+~~~
