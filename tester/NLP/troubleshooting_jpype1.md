@@ -49,3 +49,6 @@ Installing collected packages: konlpy
       Successfully uninstalled konlpy-0.4.4
 Successfully installed konlpy-0.5.1
 ~~~
+### 참고
+- [파이썬(PyTHON) JPYPE 설치시 에러](http://needjarvis.tistory.com/224)  
+- [비주얼 스튜디오 등 이전 버전](https://visualstudio.microsoft.com/ko/vs/older-downloads/?rr=http%3A%2F%2Fneedjarvis.tistory.com%2F224)  
