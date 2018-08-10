@@ -38,3 +38,14 @@ Successfully installed pip-18.0
 >pip install --upgrade jpype1
 Requirement already up-to-date: jpype1 in e:\program\anaconda3\lib\site-packages (0.6.3)
 ~~~
+~~~
+>pip install --upgrade konlpy
+Collecting konlpy
+  Using cached https://files.pythonhosted.org/packages/e5/3d/4e983cd98d87b50b2ab0387d73fa946f745aa8164e8888a714d5129f9765/konlpy-0.5.1-py2.py3-none-any.whl
+Requirement already satisfied, skipping upgrade: JPype1>=0.5.7 in e:\program\anaconda3\lib\site-packages (from konlpy) (0.6.3)
+Installing collected packages: konlpy
+  Found existing installation: konlpy 0.4.4
+    Uninstalling konlpy-0.4.4:
+      Successfully uninstalled konlpy-0.4.4
+Successfully installed konlpy-0.5.1
+~~~
