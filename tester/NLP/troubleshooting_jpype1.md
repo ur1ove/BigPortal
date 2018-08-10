@@ -1,0 +1,19 @@
+~~~
+(base) >pip install --upgrade setuptools
+Collecting setuptools
+  Downloading https://files.pythonhosted.org/packages/ff/f4/385715ccc461885f3cedf57a41ae3c12b5fec3f35cce4c8706b1a112a133/setuptools-40.0.0-py2.py3-none-any.whl (567kB)
+    100% |████████████████████████████████| 573kB 2.6MB/s
+notebook 5.4.0 requires ipykernel, which is not installed.
+jupyter 1.0.0 requires ipykernel, which is not installed.
+jupyter-console 5.2.0 requires ipykernel, which is not installed.
+ipywidgets 7.1.1 requires ipykernel>=4.5.1, which is not installed.
+tensorflow-tensorboard 1.5.1 has requirement bleach==1.5.0, but you'll have bleach 2.1.2 which is incompatible.
+tensorflow-tensorboard 1.5.1 has requirement html5lib==0.9999999, but you'll have html5lib 1.0.1 which is incompatible.
+Installing collected packages: setuptools
+  Found existing installation: setuptools 38.4.0
+    Uninstalling setuptools-38.4.0:
+      Successfully uninstalled setuptools-38.4.0
+Successfully installed setuptools-40.0.0
+You are using pip version 10.0.1, however version 18.0 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+~~~
