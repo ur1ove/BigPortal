@@ -1,3 +1,13 @@
+## KoNLPy 설치 시 JPype1 오류가 나타날 수 있다.  
+- 아래 오류 발생 시
+~~~
+error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools"
+~~~
+- [Microsoft Build Tools 2015 업데이트 3](https://visualstudio.microsoft.com/ko/vs/older-downloads/)를 설치하고 재시작하고
+- setuptools 업데이트가 필요하다  
+(물론 다른 경우도 있을 수 있다.)  
+- 정 안되면 그냥 받아서 설치한다.([JPype1 다운로드](https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype)]  
+(파이썬 버전도 확인하여 설치한다.)  
 ~~~
 (base) >pip install --upgrade setuptools
 Collecting setuptools
