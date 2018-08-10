@@ -17,3 +17,20 @@ Successfully installed setuptools-40.0.0
 You are using pip version 10.0.1, however version 18.0 is available.
 You should consider upgrading via the 'python -m pip install --upgrade pip' command.
 ~~~
+~~~
+>python -m pip install --upgrade pip
+Collecting pip
+  Downloading https://files.pythonhosted.org/packages/5f/25/e52d3f31441505a5f3af41213346e5b6c221c9e086a166f3703d2ddaf940/pip-18.0-py2.py3-none-any.whl (1.3MB)
+    100% |████████████████████████████████| 1.3MB 11.4MB/s
+notebook 5.4.0 requires ipykernel, which is not installed.
+jupyter 1.0.0 requires ipykernel, which is not installed.
+jupyter-console 5.2.0 requires ipykernel, which is not installed.
+ipywidgets 7.1.1 requires ipykernel>=4.5.1, which is not installed.
+tensorflow-tensorboard 1.5.1 has requirement bleach==1.5.0, but you'll have bleach 2.1.2 which is incompatible.
+tensorflow-tensorboard 1.5.1 has requirement html5lib==0.9999999, but you'll have html5lib 1.0.1 which is incompatible.
+Installing collected packages: pip
+  Found existing installation: pip 10.0.1
+    Uninstalling pip-10.0.1:
+      Successfully uninstalled pip-10.0.1
+Successfully installed pip-18.0
+~~~
