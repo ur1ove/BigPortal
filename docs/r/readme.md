@@ -27,3 +27,21 @@ loaded via a namespace (and not attached):
 [13] parallel_3.4.2    compiler_3.4.2    tm_0.7-5         
 [16] modeltools_0.2-22
 ~~~
+~~~
+> R.version
+               _                           
+platform       x86_64-w64-mingw32          
+arch           x86_64                      
+os             mingw32                     
+system         x86_64, mingw32             
+status                                     
+major          3                           
+minor          4.2                         
+year           2017                        
+month          09                          
+day            28                          
+svn rev        73368                       
+language       R                           
+version.string R version 3.4.2 (2017-09-28)
+nickname       Short Summer      
+~~~
